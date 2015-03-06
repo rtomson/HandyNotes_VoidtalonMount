@@ -1,5 +1,4 @@
 local ADDON_NAME, ns = ...
-local ADDON_TITLE = GetAddOnMetadata(ADDON_NAME, "Title")
 local ADDON_ICON = "Interface\\ICONS\\inv_enchant_essencecosmicgreater"
 local HandyNotes = LibStub("AceAddon-3.0"):GetAddon("HandyNotes")
 
