@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: HandyNotes_VoidtalonMount
+## Notes: Shows locations of Edge of Reality portals
+## Author: Integer
+## Version: 1.0
+## RequiredDeps: HandyNotes
+
+localization.lua
+core.lua
